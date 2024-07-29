@@ -1,0 +1,6 @@
+﻿  TicTacToe-Console.cpp
+C:\Users\PC i7\source\repos\TicTacToe-Console\TicTacToe-Console\TicTacToe-Console.cpp(38,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC i7\source\repos\TicTacToe-Console\TicTacToe-Console\TicTacToe-Console.cpp(38,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC i7\source\repos\TicTacToe-Console\TicTacToe-Console\TicTacToe-Console.cpp(42,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PC i7\source\repos\TicTacToe-Console\TicTacToe-Console\TicTacToe-Console.cpp(42,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  TicTacToe-Console.vcxproj -> C:\Users\PC i7\source\repos\TicTacToe-Console\x64\Debug\TicTacToe-Console.exe
